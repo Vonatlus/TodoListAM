@@ -1,6 +1,6 @@
 # Project TodoListAM
 
-- [DEMO LINK]([https://vonatlus.github.io/TodoListAM/])
+- [DEMO LINK](https://vonatlus.github.io/TodoListAM/)
 
 ## Description
 
