@@ -1,10 +1,10 @@
 # Project TodoListAM
 
-- [DEMO LINK]([https://vonatlus.github.io/movie_calendar/#/](https://vonatlus.github.io/TodoListAM/))
+- [DEMO LINK]([https://vonatlus.github.io/TodoListAM/])
 
 ## Description
 
-The project is a desktop version and contains a list by clicking on a day in which the user is shown a screen with a list of episodes received from the data source (https://www.tvmaze.com/api#schedule) for the selected date.
+
 The **TodoListAM** is a project where you can interact with an interface. <br />
 It contains a list of items taken from the server in which you can ***add, delete*** and see how many elements are in the list.
 
