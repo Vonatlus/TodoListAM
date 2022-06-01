@@ -12,6 +12,7 @@ It contains a list of items taken from the server in which you can ***add, delet
 
 * Angular
 * Angular material
+* Typescript
 
 ## Local development
 
